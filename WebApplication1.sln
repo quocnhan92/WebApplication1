@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{AE92C24F-7455-4B7C-B9D5-6EE926A1051A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestWebApp1", "UnitTestWebApp1\UnitTestWebApp1.csproj", "{FDAC3DB0-A897-4F5A-BA64-B4582745FA3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE92C24F-7455-4B7C-B9D5-6EE926A1051A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE92C24F-7455-4B7C-B9D5-6EE926A1051A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE92C24F-7455-4B7C-B9D5-6EE926A1051A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE92C24F-7455-4B7C-B9D5-6EE926A1051A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDAC3DB0-A897-4F5A-BA64-B4582745FA3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDAC3DB0-A897-4F5A-BA64-B4582745FA3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDAC3DB0-A897-4F5A-BA64-B4582745FA3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDAC3DB0-A897-4F5A-BA64-B4582745FA3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {314A5396-3557-4ED5-9750-89DE048C5EE2}
+	EndGlobalSection
+EndGlobal
