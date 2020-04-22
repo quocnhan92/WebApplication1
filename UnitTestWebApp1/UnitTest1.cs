@@ -16,5 +16,16 @@ namespace UnitTestWebApp1
 
             Assert.AreEqual(b, 0, "Result is undefined‬");
         }
+
+        [TestMethod]
+        public void TestGiveMoney()
+        {
+            int amount = -1;
+            int totalMoney = 1000;
+            int result = BankController.giveMoney(amount);
+
+            Assert.AreEqual(amount, -1, "So tien rut khong duoc nho hon 0");
+
+        }
     }
 }
